@@ -42,7 +42,7 @@
     "react-tinacms-github": "0.5.0",
     "react-tinacms-inline": "0.7.0",
     "rss": "1.2.2",
-    "slugify": "1.4.0",
+    "slugify": "1.4.6",
     "styled-components": "5.1.1",
     "tinacms": "0.21.1"
   },
